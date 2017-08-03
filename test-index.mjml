@@ -1,7 +1,0 @@
-<mjml>
-	<mj-body>
-		<mj-container>
-			<mj-select label="This is a select"/>
-		</mj-container>
-	</mj-body>
-</mjml>
